@@ -1,7 +1,3 @@
-// KARTA PRACY 2A
-
-
-
 // zad 1
 
 
